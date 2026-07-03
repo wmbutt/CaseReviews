@@ -53,15 +53,15 @@ The flow performs the following actions:
 ### Sample Issue Title
 
 ```text
-AI Review - David Cordero (dcordero) - Date: 2026-07-03
+AI Review - Engineer James - Date: 2026-07-03
 ```
 
 ### Sample Issue Body
 
 ```text
-Manager: Rob Wright
+Manager: Manager John
 
-Engineer: David Cordero (dcordero)
+Engineer: Engineer James
 
 Days Reviewed: 30
 
@@ -101,14 +101,18 @@ The workflow:
 
 ```text
 Issue Title:
-AI Review - David Cordero (dcordero) - Date: 2026-07-03
+AI Review - Engineer James - Date: 2026-07-03
 
 Issue Body:
 
-Manager: Rob Wright
-Engineer: David Cordero (dcordero)
+Manager: Manager John
+
+Engineer: Engineer James
+
 Days Reviewed: 30
+
 Maximum Cases: 10
+
 Optional Cases: 453,234
 
 Submitted From: Power Apps
